@@ -23,7 +23,6 @@
   <img
     src="https://github.com/user-attachments/assets/598ae8f9-7a46-4851-a228-934d065fbc71"
     width="250"
-    height="379"
-    alt="Yogeshwar FIFA Card"
+    alt="Yogeshwar FIFA Ultimate Team Card"
   />
 </p>
