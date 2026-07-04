@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-<img width="996" height="1512" alt="yogeshwar-2004y-gitfut (1)" src="https://github.com/user-attachments/assets/06806cd4-b8aa-4cb1-939c-074445230ac0" />
+<img width="116" height="600" alt="yogeshwar-2004y-gitfut (1)" src="https://github.com/user-attachments/assets/06806cd4-b8aa-4cb1-939c-074445230ac0" />
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yogi_666_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogeshwar-sakthi-a62a6527b/) 
 
 # 💻 Tech Stack:
