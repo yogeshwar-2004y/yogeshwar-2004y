@@ -18,11 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### FUT Card:
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/598ae8f9-7a46-4851-a228-934d065fbc71"
-    width="250"
-    alt="Yogeshwar FIFA Ultimate Team Card"
-  />
-</p>
